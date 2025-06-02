@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="assets/world.gif" alt="Coding Banner" width="90%" />
+  <img src="assets/world.gif" alt="Coding Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pyara Perera</h1>
