@@ -70,10 +70,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ranaba123&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PyaraKalashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Ranaba123&theme=dark&hide_border=true" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=PyaraKalashi&theme=dark&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -83,10 +83,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaba123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyaraKalashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
       </td>
       <td>
-        <img src="https://github-contributor-stats.vercel.app/api?username=Ranaba123&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=PyaraKalashi&limit=5&theme=dark&combine_all_yearly_contributions=true" />
       </td>
     </tr>
   </table>
