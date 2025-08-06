@@ -61,3 +61,34 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyarakalashi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ranaba123&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Ranaba123&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranaba123&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      </td>
+      <td>
+        <img src="https://github-contributor-stats.vercel.app/api?username=Ranaba123&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      </td>
+    </tr>
+  </table>
+
+</div>
